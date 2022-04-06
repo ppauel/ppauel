@@ -1,6 +1,6 @@
 ### Welcome 👋
 
-- 🪴 JavaScript Developer
+- 🪴 Writing in JavaScript
 - 🔭 currently working on Discord bots and websites
 
 <!--
