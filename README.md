@@ -1,7 +1,7 @@
 ### Welcome 👋
 
 - 🪴 Writing in JavaScript
-- 🔭 currently working on Discord bots and websites
+- 🔭 Currently working on Discord bots and websites
 
 <!--
 **ppauel/ppauel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
