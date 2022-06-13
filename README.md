@@ -1,7 +1,15 @@
 ### Welcome 👋
 
-- 🪴 Writing in JavaScript
-- 🔭 Currently working on Discord bots and websites
+- 📚 German student
+- 👨‍💻 Writes JavaScript
+- 🌱 Learning React
+- 📫 Reach me by email
+
+### Projects
+- Development at [@communityarchitects](https://github.com/communityarchitects)
+  - Discord Bot ("Bep")
+  - [Homepage](https://communityarchitects.net)
+- [Discord.js v14 Bot Template](https://github.com/ppauel/djs-template)
 
 <!--
 **ppauel/ppauel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
