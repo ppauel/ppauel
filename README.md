@@ -8,7 +8,7 @@
 ### Projects
 - Development at [@communityarchitects](https://github.com/communityarchitects)
   - Discord Bot ("Bep")
-  - [Homepage](https://communityarchitects.net)
+  - [New Homepage](https://communityarchitects.net)
 - [Discord.js v14 Bot Template](https://github.com/ppauel/djs-template)
 
 <!--
