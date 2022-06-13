@@ -4,7 +4,7 @@
 - 👨‍💻 Writes JavaScript
 - 🌱 Learning React
 
-### Projects
+### Projects 🔭
 - Development at [@communityarchitects](https://github.com/communityarchitects)
   - Discord Bot ("Bep")
   - [New Homepage](https://communityarchitects.net)
