@@ -3,7 +3,6 @@
 - 📚 German student
 - 👨‍💻 Writes JavaScript
 - 🌱 Learning React
-- 📫 Reach me by email
 
 ### Projects
 - Development at [@communityarchitects](https://github.com/communityarchitects)
