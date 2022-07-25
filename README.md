@@ -5,6 +5,7 @@
 - 🌱 Learning React
 
 ### Projects 🔭
+- [Roles Discord Bot](https://roles.bot)
 - Development at [@communityarchitects](https://github.com/communityarchitects)
   - Discord Bot ("Bep")
   - [New Homepage](https://communityarchitects.net)
