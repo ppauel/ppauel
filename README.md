@@ -1,4 +1,4 @@
-### Welcome 👋
+### About me 👋
 
 - 📚 German student
 - 👨‍💻 Writes JavaScript
