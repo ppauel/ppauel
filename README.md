@@ -1,7 +1,7 @@
 ### About me 👋
 
 - 📚 German student
-- 👨‍💻 Writes JavaScript
+- 👨‍💻 Writes JavaScript / TypeScript
 - 🌱 Learning React
 
 ### Projects 🔭
