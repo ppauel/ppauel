@@ -8,8 +8,8 @@
 - [Roles Discord Bot](https://roles.bot)
 - Development at [@communityarchitects](https://github.com/communityarchitects)
   - Discord Bot ("Bep")
-  - [New Homepage](https://communityarchitects.net)
-- [Discord.js v14 Bot Template](https://github.com/ppauel/djs-template)
+  - [communityarchitects.net](https://communityarchitects.net)
+- [TypeScript Discord bot template](https://github.com/ppauel/typescript-discord-bot)
 
 <!--
 **ppauel/ppauel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
