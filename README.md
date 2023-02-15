@@ -8,7 +8,7 @@
 - [Roles Discord Bot](https://roles.bot)
 - Development at [@communityarchitects](https://github.com/communityarchitects)
   - Discord Bot ("Bep")
-  - [communityarchitects.net](https://community-architects.net)
+  - [community-architects.net](https://community-architects.net)
 - [TypeScript Discord bot template](https://github.com/ppauel/typescript-discord-bot)
 
 <!--
