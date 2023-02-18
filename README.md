@@ -7,7 +7,7 @@
 ### Projects 🔭
 - [Roles Discord Bot](https://roles.bot)
 - Development at [@communityarchitects](https://github.com/communityarchitects)
-  - Discord Bot ("Bep")
+  - Discord Bots
   - [community-architects.net](https://community-architects.net)
 - [TypeScript Discord bot template](https://github.com/ppauel/typescript-discord-bot)
 
