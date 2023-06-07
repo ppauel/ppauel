@@ -2,11 +2,12 @@
 
 - 📚 German student
 - 👨‍💻 Writes JavaScript/TypeScript
-- 🌱 Learning React
+- 🌱 Learning Swift
+- 🐢 Occasionally attempting [3D graphic design](https://dribbble.com/ppauel) and music 
 
 ### Projects 🔭
 - [Roles Discord Bot](https://roles.bot)
 - Development at [@communityarchitects](https://github.com/communityarchitects)
-  - Discord Bots
   - [Website](https://community-architects.net) ([Source Code](https://github.com/communityarchitects/community-architects.net))
+  - Discord Bots
 - [TypeScript Discord Bot Template](https://github.com/ppauel/typescript-discord-bot)
