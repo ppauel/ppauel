@@ -8,6 +8,6 @@
 ### Projects 🔭
 - [Roles Discord Bot](https://roles.bot)
 - Development at [@communityarchitects](https://github.com/communityarchitects)
-  - [Website](https://community-architects.net) ([Source Code](https://github.com/communityarchitects/community-architects.net))
+  - [Website](https://community-architects.net) ([Repository](https://github.com/communityarchitects/community-architects.net))
   - Discord Bots
 - [TypeScript Discord Bot Template](https://github.com/ppauel/typescript-discord-bot)
