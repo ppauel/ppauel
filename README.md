@@ -1,5 +1,5 @@
 ### About me 👋
-- 👨‍💻 Writes JavaScript / TypeScript
+- 👨‍💻 Writing in JavaScript / TypeScript
 - 🌱 Learning Swift
 - 🐢 Attempting [graphic design](https://dribbble.com/ppauel) and music production
 
