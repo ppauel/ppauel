@@ -1,7 +1,5 @@
 ### About me 👋
-
-- 📚 German student
-- 👨‍💻 Writes JavaScript/TypeScript
+- 👨‍💻 Writes JavaScript / TypeScript
 - 🌱 Learning Swift
 - 🐢 Attempting [graphic design](https://dribbble.com/ppauel) and music production
 
