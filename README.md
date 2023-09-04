@@ -9,3 +9,6 @@
 - Development at [@communityarchitects](https://github.com/communityarchitects)
   - [Website](https://community-architects.net) | [Repository](https://github.com/communityarchitects/community-architects.net)
   - Discord Bots
+
+- Development at [@vyleestudio](https://github.com/vyleestudio)
+  - [Website](https://vylee.studio) | [Repository](https://github.com/vyleestudio/vylee.studio)
