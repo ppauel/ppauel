@@ -1,4 +1,4 @@
-About Me 👋
+About Me
 ---
 
 * 🎓 Studying Computer Science
@@ -6,7 +6,7 @@ About Me 👋
 * 🌱 Learning Swift
 * 🐢 Attempting [graphic design](https://dribbble.com/ppauel) and music production
 
-Projects & Work 🔭
+Projects & Work
 ---
 
 ##### [My portfolio](https://pauel.eu)
