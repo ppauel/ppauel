@@ -18,7 +18,7 @@ Projects & Work
 
 **ForceSkip**
 > Safari Extension, which lets you skip content on YouTube
-* [Repository](https://roles.bot)
+* [Repository](https://github.com/ppauel/youtube-forceskip)
   <img align="center" alt="Badge" src="https://img.shields.io/badge/-rgb(0%2C0%2C0%2C0)?style=flat-square&logo=xcode" />
 
 **Development for [@communityarchitects](https://github.com/communityarchitects) resp. [@vyleestudio](https://github.com/vyleestudio)**
