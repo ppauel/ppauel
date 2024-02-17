@@ -12,7 +12,7 @@ Projects & Work
 ##### [My portfolio](https://pauel.eu)
 
 **Roles Bot**
-> Discord role management bot, written in [discord.js](https://github.com/discordjs/discord.js) using my [template](https://github.com/ppauel/typescript-discord-bot)
+> Discord role management bot
 * [roles.bot](https://roles.bot)
   <img align="center" alt="Badge" src="https://img.shields.io/badge/-rgb(0%2C0%2C0%2C0)?style=flat-square&logo=react&logoColor=%234188fa" />
 
